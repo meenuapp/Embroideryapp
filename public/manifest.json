@@ -1,0 +1,21 @@
+{
+  "name": "Embroidery Business Suite",
+  "short_name": "Embroidery",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#FFDCDC",
+  "theme_color": "#FFF8F3",
+  "description": "An all-in-one tool for embroidery businesses to manage tailor orders, payments, and customer measurements. Works offline.",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
